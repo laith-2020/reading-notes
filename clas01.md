@@ -31,7 +31,7 @@
 
 ## Each new version was designed to be an improvement on the last (with new elements and attributes added and older code removed).
 
-## Doctype : there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML 
+## Doctype : there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML .
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuMQ5lMK6fOhJ96JFeb6ddDqEJjy7VbDSKmZEvJcRnuj1LMnH24A&s)
 
