@@ -33,4 +33,26 @@
 
 ## Doctype : there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML 
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuMQ5lMK6fOhJ96JFeb6ddDqEJjy7VbDSKmZEvJcRnuj1LMnH24A&s)
+
+
+# Introduction Java script
+
+## How Javascript makes web pages more interactive ?
+
+- Access content
+- Modify Content
+- program rules 
+- React To events 
+
+## BROWSER SUPPORT
+
+***Some early examples in this book do not work with Internet Explorer 8 and earlier (but alternative code samples that work in IE8 are available to download from http:// j avascri pt book. com) We explain techniques for dealing with older browsers in later chapters***
+
+## The A B C for programing 
+
+### A  What is a script 
+
+- SCRIPT IS A SERI ES OF INSTRUCTIONS 
+
 [referance](http://www.htmlandcssbook.com/code-samples/)
