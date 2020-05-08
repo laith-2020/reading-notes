@@ -6,7 +6,7 @@ in this website,you can find all my 201 reading notes
 
 Read#  | link
 -----------|----------
-Read 1     | [link1]()
+Read 1     | [link1](https://laith-2020.github.io/reading-notes/clas01)
 Read 2     | [link2]()
 Read 3     | [link3]()
 Read 4     | [link4]()
