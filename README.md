@@ -8,7 +8,7 @@ Read#  | link
 -----------|----------
 Read 1     | [link1](https://laith-2020.github.io/reading-notes/clas01)
 Read 2     | [link2](https://laith-2020.github.io/reading-notes/class-02)
-Read 3     | [link3]()
+Read 3     | [link3](https://laith-2020.github.io/reading-notes/class-03)
 Read 4     | [link4]()
 Read 5     | [link5]()
 Read 6     | [link6]()
