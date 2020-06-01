@@ -18,7 +18,7 @@ Read 9     | [link9](https://laith-2020.github.io/reading-notes/class-09)
 Read 10    | [link10](https://laith-2020.github.io/reading-notes/class-10)
 Read 11    | [link11](https://laith-2020.github.io/reading-notes/class-11)
 Read 12    | [link12](https://laith-2020.github.io/reading-notes/class-12)
-Read 13    | [link13]()
+Read 13    | [link13](https://laith-2020.github.io/reading-notes/class-13)
 Read 14    | [link14]()
 Read 15    | [link15]()
 
