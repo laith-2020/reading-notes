@@ -38,7 +38,7 @@ in this website,you can find all my 301 reading notes
 Read#  | link
 -----------|----------
 Read 01    | [SMACSS](https://laith-2020.github.io/reading-notes/read-01)
-Read 02     | [link2](https://laith-2020.github.io/reading-notes/read-02)
+Read 02     | [jQuery](https://laith-2020.github.io/reading-notes/read-02)
 Read 03     | [link3](https://laith-2020.github.io/reading-notes/read-03)
 Read 04     | [link4](https://laith-2020.github.io/reading-notes/read-04)
 Read 05     | [link5](https://laith-2020.github.io/reading-notes/read-05)
