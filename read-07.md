@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # read 7
 
 ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/SQL-1024x341.png)
