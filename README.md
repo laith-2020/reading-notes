@@ -52,3 +52,33 @@ Read 12    | [link12](https://laith-2020.github.io/reading-notes/read-12)
 Read 13    | [link13](https://laith-2020.github.io/reading-notes/read-13)
 Read 14    | [link14](https://laith-2020.github.io/reading-notes/read-14)
 Read 15    | [link15](https://laith-2020.github.io/reading-notes/read-15)
+
+
+
+<hr>
+
+
+
+# code 401 Reading Notes
+
+in this website,you can find all my 401 reading notes
+
+## table of daily reading assignments 
+
+Read#  | link
+-----------|----------
+Read 01    | [link1](https://laith-2020.github.io/reading-notes/read1)
+Read 02     | [link2](https://laith-2020.github.io/reading-notes/read2)
+Read 03     | [link3](https://laith-2020.github.io/reading-notes/read3)
+Read 04     | [link4](https://laith-2020.github.io/reading-notes/read4)
+Read 05     | [link5](https://laith-2020.github.io/reading-notes/read5)
+Read 06     | [link6](https://laith-2020.github.io/reading-notes/read6)
+Read 07     | [link7](https://laith-2020.github.io/reading-notes/read7)
+Read 08     | [link8](https://laith-2020.github.io/reading-notes/read8)
+Read 09     | [link9](https://laith-2020.github.io/reading-notes/read9)
+Read 10    | [link10](https://laith-2020.github.io/reading-notes/read10)
+Read 11    | [link11](https://laith-2020.github.io/reading-notes/read11)
+Read 12    | [link12](https://laith-2020.github.io/reading-notes/read12)
+Read 13    | [link13](https://laith-2020.github.io/reading-notes/read13)
+Read 14    | [link14](https://laith-2020.github.io/reading-notes/read14)
+Read 15    | [link15](https://laith-2020.github.io/reading-notes/read15)
